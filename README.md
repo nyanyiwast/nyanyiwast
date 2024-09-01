@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-Hi! I am Sedrick Nyanyiwa
+Hi!
 </h1>
 
 <h3 align="center">
